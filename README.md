@@ -1,1 +1,1 @@
-Hi this is my NBA dashboard. In this repository you will find a sankey file
+Welcome to the NBA Dashboard project! This dashboard provides interactive visualizations and insights into NBA statistics, offering users an engaging experience to explore team and player performances. The data comes from the 2023-2024 season data. It utilizes python and plotly to generate an interactive sankey diagram.
